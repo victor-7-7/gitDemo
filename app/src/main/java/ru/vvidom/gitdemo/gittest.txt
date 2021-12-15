@@ -8,3 +8,11 @@ main: 1
 main: 2
 
 main: 3
+
+branch-2: 0
+
+branch-2: 1
+
+branch-2: 2
+
+merge branch-2 to main
